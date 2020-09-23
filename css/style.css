@@ -318,6 +318,9 @@ section{
     padding-bottom: 70px;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+}
 
 
 /*media query*/
